@@ -1,0 +1,23 @@
+.jam {
+	font-size: 30px;
+	padding-left: 20px;
+}
+
+
+
+
+
+
+@media (min-width: 576px) { 
+	.jam {
+		font-size: 60px;
+		padding-top: 50px;
+	}
+
+	.jam1 {
+		padding-left: 65px;
+	}
+
+
+
+}
